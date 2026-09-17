@@ -1,0 +1,15 @@
+0: Task 0: initiated in idle 
+0: Task 1: initiated in idle 
+0: Task 2: initiated in idle 
+0: Task 3: initiated in idle 
+0: Task 4: initiated in idle 
+0: Task 0: idle -> running, total time worked: 0 
+150: Task 0: running -> finished, total time worked: 150 
+149: Task 4: idle -> running, total time worked: 0 
+169: Task 4: running -> finished, total time worked: 20 
+169: Task 2: idle -> running, total time worked: 0 
+209: Task 2: running -> finished, total time worked: 40 
+209: Task 3: idle -> running, total time worked: 0 
+259: Task 3: running -> finished, total time worked: 50 
+260: Task 1: idle -> running, total time worked: 0 
+320: Task 1: running -> finished, total time worked: 60 

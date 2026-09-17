@@ -1,5 +1,3 @@
 *.o
 *.out
-*.png
-log*.txt
 scheduling
